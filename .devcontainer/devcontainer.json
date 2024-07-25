@@ -22,7 +22,10 @@
 			"mavenVersion": "3.8.6",
 			"antVersion": "1.10.12",
 			"groovyVersion": "4.0.16"
-		}
+		},
+		"ghcr.io/devcontainers/features/sshd:1": {
+    		"version": "latest"
+  		}
 	}
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
